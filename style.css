@@ -434,6 +434,8 @@ body {
     linear-gradient(0deg, transparent 65%, var(--color-black));
 }
 
+
+
 .wrapper-profile-photo {
   display: flex;
   justify-content: center;
@@ -604,7 +606,8 @@ body {
   display: inline-block;
 
   padding: calc(0.2vw + 0.8rem) calc(2vw + 0.8rem);
-  margin-bottom: 3rem;
+  
+  margin: 1rem;
 
   font-size: calc(.7vw + .55rem);
   font-family: 'Poppins', sans-serif;
